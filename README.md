@@ -1,5 +1,6 @@
 # Hotel room reservation web app
 This was a 2 months internship project
+
 ![Screenshot 2021-05-31 194814](https://user-images.githubusercontent.com/69424447/120231456-59355280-c249-11eb-88b2-e40b1726efc1.jpg)
 ![Screenshot 2021-05-31 194832](https://user-images.githubusercontent.com/69424447/120231459-5c304300-c249-11eb-8aad-b7c87ed6ab9f.jpg)
 ![Screenshot 2021-05-31 194852](https://user-images.githubusercontent.com/69424447/120231463-5e929d00-c249-11eb-8cb4-c7263fbfbd36.jpg)
